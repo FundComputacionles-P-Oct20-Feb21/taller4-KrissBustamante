@@ -1,0 +1,25 @@
+Algoritmo 1
+1.Inicio
+2.Presentar la valor de la base
+3.Presentar el valor de la altura 
+4.Calcular el (base*altura)/2
+5.Presentar el area
+6.Fin
+
+Miniespecificacion o Pseudocódigo 
+1.Inicio
+// declaro las variables 
+2. base, d[0,n]
+3.altura, d[0,n]
+4.area, d[0,n] 
+// pido datos por teclado - entradas
+5.Escribir "Ingrese la base"
+6.Leer base
+7.Escribir "Ingrese la altura"
+7.Leer altura
+// Proceso
+8.area <-- (base*altura)/2
+// Salida
+9.Escribir "el area del triangulo:"+ area 
+
+10.fin

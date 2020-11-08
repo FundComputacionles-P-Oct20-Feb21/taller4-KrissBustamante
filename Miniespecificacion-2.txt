@@ -1,0 +1,31 @@
+Resolucion de algoritmo 2
+1.Inicio
+2.Se presentan las diferentes variables
+3.Se presentan los gastos diarios de los niños, ropa, alimentacion,escuela
+4.Donde gastos diarios representa=x, ropa representa=y,alimentacion=z, escuela=s
+5.Se genera la formula 3(x+y+z+s)
+6.Se presenta el resultado
+7.fin 
+
+ Miniespecificacion o Pseudocódigo 
+1.Inicio
+// declaro variables
+2.gastos diarios, d[0, n]
+3.ropa,d[0, n]
+4.alimentacion, d[0, n]
+5.Escuela, d[0, n]
+6.Total de gastos, d[0, n]
+// pido datos por teclado - entradas
+7.Escribir "Ingrese los gastos diarios"
+8.Leer gastos diarios 
+9.Escribir "Ingrese los gastos de ropa"
+10.Leer ropa
+11.Escribir "Ingrese gastos de alimentacion"
+12.Leer alimentacion 
+13.Escribir "Ingrese gastos de escuela"
+14.Leer escuela
+// proceso
+15.Total de gastos <-- 3*(gastos diarios+ropa+alimentacion+escuela)
+// salida 
+16.Escribir "El total de gastos es:" +Total de gastos
+17.Fin

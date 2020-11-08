@@ -1,0 +1,22 @@
+1.Incio
+2.Presentar valores de la plantilla de telefono por un mes 
+3.Se da que (costo x minutos)* 1dia=X
+4.Entocnes se calcula X*30dias= Valor de la plantilla  
+5.Se presenta el valor de la plantilla 
+6.Fin 
+
+Miniespecificacion o Pseudocódigo 
+1.Inicio
+// declaro las variables
+2.costoxminutos, d[0, n]
+3.X, d[0, n]
+4.Valor de la plantilla, d[0, n]
+//pido datos por teclado - entradas
+5.Escribir "Ingrese el costoxminutos"
+6.Leer costoxminutos
+//proceso
+7.X <--costoxminutos*1 dia
+8.Valor de la plantilla <-- X*30 dias
+//Salida
+9.Escribir "El valor de la plantilla es :"+ Valor de la plantilla
+10.Fin

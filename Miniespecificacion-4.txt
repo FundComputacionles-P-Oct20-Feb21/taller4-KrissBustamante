@@ -1,0 +1,32 @@
+Resolucion de algoritmo 5
+1.Inicio
+2.Presentar los valores de las partes de la computadora 
+3.Donde Cpu=x, Teclado=y, Pantalla=z, Raton=s
+4.Se calcula (x+y+z+s)=valor total de la computadora 
+5.Se presenta el valor total de la computadora 
+6.Fin.
+
+Miniespecificacion o Pseudocódigo 
+1.Inicio
+// declaro variables
+2.Cpu, d[0, n]
+3.Teclado, d[0, n]
+4.Pantalla, d[0, n]
+5.Raton, d[0, n]
+6.Valor total de la computadora, d[0, n]
+// pido datos por teclado - entradas
+7.Escribir "Ingrese  el costo del Cpu"
+8.Leer Cpu
+9.Escribir "Ingrese  el costo del Teclado"
+10.Leer Teclado
+11.Escribir "Ingrese  el costo de la Pantalla"
+12.Leer Pantalla
+13.Escribir "Ingrese  el costo del Raton"
+14.Leer Raton
+// proceso
+15.Valor total de la computadora <-- Cpu+Teclado+Pantalla+Raton
+// salida
+16. Escribir "EL Valor de la Computadora es :" +Valor total de la computadora
+17.Fin
+
+

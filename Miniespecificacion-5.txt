@@ -1,0 +1,37 @@
+Resolucion de algoritmo 5
+1.Inicio
+2.Se presenta el valor del prestamo
+3.Se presenta el interes mensual
+6.se suman las dos variables+ el iva por cada mes
+7.Se presenta el valor final de todo el año
+8.Fin
+
+ Miniespecificacion o Pseudocódigo 
+1.Inicio
+// declaro las variables
+2.valor del prestamo, d[0, n]
+3.interes mensual, d[0, n]
+4.iva por cada mes, d[0, n]
+5.valor final de todo el año, d[0, n]
+// pido datos por teclado - entradas
+6.Escribir "Ingrese el valor del prestamo"
+7.Leer valor del prestamo
+8.Escribir "Ingrese el interes mensual"
+9.Leer interes mensual
+10.Escribir "Ingrese el iva por cada mes"
+11.Leer iva por cada mes
+// proceso
+12.valor final de todo el año <-- valor del prestamo+interes mensual+iva por cada mes
+// salida
+13.Escribir "El valor final de todo el año es:" +valor final de todo el año
+14.Fin
+
+
+
+
+
+
+
+Escribir "Ingrese el valor del prestamo"
+3.Leer 
+4.
